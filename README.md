@@ -29,3 +29,215 @@ Los principales objetivos incluyen:
 
 ---
 
+## Scope
+
+Este repositorio comprende el estudio, documentación y desarrollo práctico de tecnologías Microsoft utilizadas para la administración de infraestructura empresarial, servicios de directorio, plataformas híbridas, automatización, virtualización y servicios Cloud.
+
+El alcance del proyecto incluye los siguientes dominios tecnológicos:
+
+---
+
+### Windows Server
+
+Administración, configuración y mantenimiento de sistemas Windows Server utilizados en ambientes empresariales.
+
+Áreas principales:
+
+- Installation & Deployment
+- Server Roles & Features
+- Storage Services
+- File Services
+- Print Services
+- DNS
+- DHCP
+- Windows Server Security
+- Server Management
+- Performance Monitoring
+
+---
+
+### Windows Client
+
+Administración y soporte de sistemas operativos Windows para estaciones de trabajo.
+
+Áreas principales:
+
+- Windows 10
+- Windows 11
+- Deployment
+- Configuration
+- Local Administration
+- Security
+- Troubleshooting
+- Performance Optimization
+
+---
+
+### Active Directory
+
+Administración de servicios de directorio e infraestructura de identidad empresarial.
+
+Áreas principales:
+
+- Domain Services
+- Organizational Units
+- Users & Groups
+- Authentication
+- Authorization
+- Trust Relationships
+- Replication
+- FSMO Roles
+- Sites & Services
+
+---
+
+### Group Policy
+
+Administración centralizada de configuraciones y políticas de seguridad.
+
+Áreas principales:
+
+- Group Policy Objects (GPO)
+- Administrative Templates
+- Security Policies
+- Software Deployment
+- Folder Redirection
+- Policy Troubleshooting
+
+---
+
+### PowerShell
+
+Automatización administrativa mediante PowerShell para plataformas Microsoft.
+
+Áreas principales:
+
+- Scripting
+- Automation
+- Administration
+- Modules
+- Remoting
+- Desired State Configuration (DSC)
+
+---
+
+### Microsoft Azure
+
+Administración e implementación de soluciones Cloud sobre Microsoft Azure.
+
+Áreas principales:
+
+- Azure Virtual Machines
+- Virtual Networks
+- Azure Storage
+- Azure Identity
+- Azure Resource Management
+- Monitoring
+- Automation
+- Governance
+
+---
+
+### Microsoft Entra ID
+
+Administración de identidades y acceso en plataformas Microsoft Cloud.
+
+Áreas principales:
+
+- Identity Management
+- Authentication
+- Conditional Access
+- Single Sign-On (SSO)
+- Identity Protection
+- Hybrid Identity
+
+---
+
+### Microsoft 365
+
+Administración de servicios empresariales Microsoft 365.
+
+Áreas principales:
+
+- User Administration
+- Licensing
+- Collaboration
+- Security
+- Compliance
+- Microsoft Teams
+- SharePoint
+- OneDrive
+
+---
+
+### Exchange Server
+
+Administración de servicios de correo empresarial Microsoft Exchange.
+
+Áreas principales:
+
+- Mailboxes
+- Transport Services
+- Mail Flow
+- Security
+- Backup
+- High Availability
+
+---
+
+### Hyper-V
+
+Virtualización empresarial mediante Microsoft Hyper-V.
+
+Áreas principales:
+
+- Virtual Machines
+- Virtual Switches
+- Storage
+- Replication
+- High Availability
+- Performance
+
+---
+
+### Windows Security
+
+Implementación de controles de seguridad para plataformas Microsoft.
+
+Áreas principales:
+
+- Windows Defender
+- BitLocker
+- Windows Firewall
+- Auditing
+- Hardening
+- Security Baselines
+
+---
+
+### Hybrid Infrastructure
+
+Integración entre infraestructura local y plataformas Cloud Microsoft.
+
+Áreas principales:
+
+- Active Directory Integration
+- Microsoft Entra Connect
+- Hybrid Identity
+- Hybrid Management
+- Hybrid Authentication
+- Cloud Integration
+
+---
+
+## Out of Scope
+
+Los siguientes dominios tecnológicos mantienen repositorios independientes:
+
+- Linux Administration → Linux Engineering
+- Database Technologies → Database Engineering
+- Infrastructure Technologies → Infrastructure Engineering
+- Python Development & Automation → Python Engineering
+- Cybersecurity → Cybersecurity Engineering
+- DevOps → DevOps Engineering
+
