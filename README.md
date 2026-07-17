@@ -121,23 +121,6 @@ Automatización administrativa mediante PowerShell para plataformas Microsoft.
 
 ---
 
-### Microsoft Azure
-
-Administración e implementación de soluciones Cloud sobre Microsoft Azure.
-
-Áreas principales:
-
-- Azure Virtual Machines
-- Virtual Networks
-- Azure Storage
-- Azure Identity
-- Azure Resource Management
-- Monitoring
-- Automation
-- Governance
-
----
-
 ### Microsoft Entra ID
 
 Administración de identidades y acceso en plataformas Microsoft Cloud.
@@ -226,7 +209,6 @@ Integración entre infraestructura local y plataformas Cloud Microsoft.
 - Hybrid Identity
 - Hybrid Management
 - Hybrid Authentication
-- Cloud Integration
 
 ---
 
@@ -240,4 +222,35 @@ Los siguientes dominios tecnológicos mantienen repositorios independientes:
 - Python Development & Automation → Python Engineering
 - Cybersecurity → Cybersecurity Engineering
 - DevOps → DevOps Engineering
+
+
+## Repository Architecture
+
+La estructura del repositorio está organizada por dominios tecnológicos.
+
+Cada dominio mantiene de forma independiente su documentación, laboratorios, proyectos, recursos y rutas de aprendizaje.
+
+Ejemplo:
+
+```text
+microsoft-engineering/
+
+├── windows-server/
+├── active-directory/
+├── powershell/
+├── entra-id/
+├── hyper-v/
+├── group-policy/
+├── dns/
+├── dhcp/
+├── file-services/
+├── print-services/
+├── windows-security/
+├── windows-networking/
+├── hybrid-environments/
+└── troubleshooting/
+```
+
+---
+
 
