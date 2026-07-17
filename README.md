@@ -340,5 +340,32 @@ Toda la documentación seguirá principios de:
 
 ---
 
+## Roadmap
+
+### Phase 1 — Windows Administration
+
+- Windows Server
+- Administración básica
+- Usuarios
+- Servicios
+- Roles
+
+### Phase 2 — Enterprise Services
+
+- Active Directory
+- DNS
+- DHCP
+- File Services
+- Group Policy
+
+### Phase 3 — Enterprise Infrastructure
+
+- Automatización.
+- Seguridad.
+- Virtualización.
+- Integración híbrida.
+- Proyectos empresariales.
+
+---
 
 
